@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **SibinRaj019/SibinRaj019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,7 +27,7 @@ I am a passionate **Test Analyst** with 3+ years of experience in **Web Applicat
 
 ## 📬 Contact
 - 📧 Email: sibinrajash@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile URL]  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Check My LinkedIn Profile</a>
 
 Looking forward to collaborating with like-minded professionals! 🚀
 
