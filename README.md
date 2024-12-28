@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hello, I'm Sibin! 👋
 
 ## 👨‍💻 About Me
-I am a passionate **Test Analyst** with 3+ years of experience in **Web Application Testing**. I specialize in both **manual** and **automated** testing, working with tools like **Selenium**, **Cucumber**, **Java**, and **RESTAssured** for API automation. I also enjoy learning new technologies and currently expanding my knowledge in **Cloud Development** and **JavaScript**.
+I am a passionate **Test Analyst** with 3+ years of experience in **Web Application Testing**. I specialize in both **manual** and **automated** testing, working with tools like **Selenium**, **Cucumber**, **Java**, and **RESTAssured** for API automation. I also enjoy learning new technologies and currently expanding my knowledge in **Cloud Native Application** development.
 
 ## 🛠 Skills
 - **Automation Testing**: Selenium, Cucumber, TestNG  
