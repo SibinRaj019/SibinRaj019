@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Sibin! 👋
+
+## 👨‍💻 About Me
+I am a passionate **Test Analyst** with 3+ years of experience in **Web Application Testing**. I specialize in both **manual** and **automated** testing, working with tools like **Selenium**, **Cucumber**, **Java**, and **RESTAssured** for API automation. I also enjoy learning new technologies and currently expanding my knowledge in **Cloud Development** and **JavaScript**.
+
+## 🛠 Skills
+- **Automation Testing**: Selenium, Cucumber, TestNG  
+- **API Testing**: RESTAssured  
+- **Programming Languages**: Java  
+- **Web Development**: HTML, CSS, JavaScript (Beginner)  
+- **Cloud**: Basic Knowledge
+
+## 📬 Contact
+- 📧 Email: sibinrajash@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile URL]  
+
+Looking forward to collaborating with like-minded professionals! 🚀
+
+
+
